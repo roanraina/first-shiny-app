@@ -1,0 +1,11 @@
+name: first-shiny-app
+title:
+username:
+account: rraina
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8346468
+bundleId: 6859218
+url: https://rraina.shinyapps.io/first-shiny-app/
+when: 1676663126.15721
+lastSyncTime: 1676663126.15723
